@@ -15,6 +15,7 @@
     font-family: var(--font-para);
 }
 
+
 html {
     font-size: 62.5%;
 }
@@ -44,14 +45,14 @@ body {
 
 .main_header__div {
     height: calc(100vh - 40vh);
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0)), url('https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0)), url('https://mydmi.imgix.net/v3blog/Blog---6-Ways-to-Spring-Clean-Your-Digital-Marketing-Strategy.jpg?crop=edges&fit=crop&fm=jpg&h=1260&ixlib=php-3.3.1&q=40&w=2400&s=265fb3ab162d5e3b962e9e3662e5d06e');
     background-size: var(--bg-size);
 }
 
 .main_heading {
     font-family: var(--title);
     font-weight: bold;
-    font-size: 5rem;
+    font-size: 3rem;
     color: #1b262c;
 }
 
@@ -282,7 +283,7 @@ figure img:hover,
 }
 
 .about_me_div p:first-child {
-    padding-bottom: 0.2rem;
+    padding-bottom: 0.5rem;
     font-size: 2.2rem;
 }
 
